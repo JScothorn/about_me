@@ -18,9 +18,15 @@ and open the template in the editor.
         
         <main>
             <img src="images/justin.jpg" alt="justin">
-            <p>I am a senior at Wright State University.</p>
-            <p>I grew up in West Carrollton Ohio.</p>
-            <p>I am married and have two children ages 4 and 10 months.</p>
+            <p>I am a senior at Wright State University. And will be graduating in July 2016.
+            I have enjoyed my time at wright state so far but really have no idea what I want to do 
+            for my career. I suppose I will have to just get out there and try a few things to see what 
+            I like and am good at.</p>
+            <p>I grew up in West Carrollton Ohio my entire education. I hope to move west someday
+            maybe Colorado or Califonia.</p>
+            <p>I am married and have two children ages 4 and 10 months. They take most of my free 
+            time to entertain and enjoy time with. I hope to one day have all sorts of time to spend
+            with them without feeling guilty I am not doing homework.</p>
             
             <table>
                 <tr>
@@ -57,9 +63,9 @@ and open the template in the editor.
         <aside>
             <h2>Who I Cheer For!</h2>
             <ul>
-                <li><a href="http://www.bengals.com/">Cincinnati Bengals</a></li>
-                <li>Ohio State Buckeyes</li>
-                <li>Cincinnati Reds</li>
+                <li><a href="http://www.bengals.com/" target="_blank">Cincinnati Bengals</a></li>
+                <li><a href="http://cincinnati.reds.mlb.com/index.jsp?c_id=cin" target="_blank">Cincinnati Reds</a></li>
+                <li><a href="http://www.ohiostatebuckeyes.com/sports/m-footbl/osu-m-footbl-body.html" target="_blank">Ohio State Buckeyes</a></li>
             </ul>
         </aside>
         
